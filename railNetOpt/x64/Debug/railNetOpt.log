@@ -1,0 +1,4 @@
+﻿  railNetOpt.cpp
+C:\Users\amreen\Documents\DSA_Projects\Railway_Network_Optimzation\railNetOpt\railNetOpt.cpp(40,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\amreen\Documents\DSA_Projects\Railway_Network_Optimzation\railNetOpt\railNetOpt.cpp(96,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  railNetOpt.vcxproj -> C:\Users\amreen\Documents\DSA_Projects\Railway_Network_Optimzation\railNetOpt\x64\Debug\railNetOpt.exe
