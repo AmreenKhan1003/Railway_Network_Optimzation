@@ -1,6 +1,6 @@
 # Railway_Network_Optimzation
 
-### Console application built using Dijkstra's algorithm in C++ language. Application is capable of optimizing and providing a path having minimum distance between source to destination stations of railways.
+Console application built using Dijkstra's algorithm in C++ language. Application is capable of optimizing and providing a path having minimum distance between source to destination stations of railways.
 
 ## Features:
 
